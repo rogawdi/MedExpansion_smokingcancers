@@ -1,0 +1,63 @@
+{
+  "original_filename": "smoking_disparity_nonmet_3.R",
+  "total_lines": 6411,
+  "sha256_original": "e55cff5b5021839267e8132659af80c9561d5e877a7fbb15691fc05919df7b8a",
+  "sha256_concatenated": "e55cff5b5021839267e8132659af80c9561d5e877a7fbb15691fc05919df7b8a",
+  "byte_identical": true,
+  "segments": [
+    {
+      "file": "01_combined_cohort_and_disparities.R",
+      "original_start_line": 1,
+      "original_end_line": 1137,
+      "line_count": 1137
+    },
+    {
+      "file": "02_head_neck_analysis.R",
+      "original_start_line": 1138,
+      "original_end_line": 1591,
+      "line_count": 454
+    },
+    {
+      "file": "03_lung_analysis.R",
+      "original_start_line": 1592,
+      "original_end_line": 2045,
+      "line_count": 454
+    },
+    {
+      "file": "04_esophageal_analysis.R",
+      "original_start_line": 2046,
+      "original_end_line": 2500,
+      "line_count": 455
+    },
+    {
+      "file": "05_combined_disparities_and_censoring.R",
+      "original_start_line": 2501,
+      "original_end_line": 3025,
+      "line_count": 525
+    },
+    {
+      "file": "06_propensity_matching_and_survival.R",
+      "original_start_line": 3026,
+      "original_end_line": 4507,
+      "line_count": 1482
+    },
+    {
+      "file": "07_treatment_survival_and_km.R",
+      "original_start_line": 4508,
+      "original_end_line": 5300,
+      "line_count": 793
+    },
+    {
+      "file": "08_figures_and_state_map.R",
+      "original_start_line": 5301,
+      "original_end_line": 5555,
+      "line_count": 255
+    },
+    {
+      "file": "09_additional_survival_and_tables.R",
+      "original_start_line": 5556,
+      "original_end_line": 6411,
+      "line_count": 856
+    }
+  ]
+}
